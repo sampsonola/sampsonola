@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @sampsonola
-- 👀 I’m interested in python
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello, I'm Samson Olatunde Oguntuwase
 
-<!---
-sampsonola/sampsonola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I’m a data scientist and AI enthusiast passionate about solving real-world problems using Python, data analysis, and machine learning.
+
+## 👨‍💻 About Me
+- 🔭 Currently exploring advanced machine learning and generative AI techniques (StyleGAN, Prophet, ARIMA, SARIMAX)
+- 📊 Skilled in data cleaning, visualization, and time series forecasting
+- 🌱 Building hands-on projects in education, public health, and wildlife conservation
+- 💼 Academic background in microbiology with a career focus in data science and AI
+
+## 🧠 Interests
+- Python Programming
+- Machine Learning & AI
+- Generative Models (e.g., GANs)
+- Real-world Data Projects (Health, Wildlife, Education)
+
+## 🤝 Open to Collaboration
+I'm interested in collaborating on:
+- Predictive analytics
+- Environmental and educational data systems
+- AI-powered tools for research or healthcare
+
+## 📫 Contact Me
+- 📧 Email: glosamedutech2022@gmail.com  
+- 🐦 Twitter: [@techvoyager_](https://twitter.com/techvoyager_)
+- 📍 Based in London, Ontario, Canada
+
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- SQL | Git & GitHub | Jupyter Notebook
+- Streamlit | Flask (for deploying ML apps)
+- Excel | Power BI
+
+## 📂 Featured Projects
+- 🔬 **Wildlife Image Synthesis with StyleGAN**
+- 📈 **Forecasting Health Trends using Prophet**
+- 🏫 **Interactive Dashboards for Learning Analytics**
+
+---
+
+Thanks for stopping by! I'm always open to knowledge sharing and meaningful collaborations.
